@@ -9,15 +9,15 @@ html,body{
 	color: #666;
 }
 .pimg1{
-	background-image: url(Images/1.jpg);
+	background-image: url(1.jpg);
 	min-height: 100%;
 }
 .pimg2{
-	background-image: url(Images/2.jpg);
+	background-image: url(2.jpg);
 	min-height: 100%;
 }
 .pimg3{
-	background-image: url(Images/3.jpg);
+	background-image: url(3.jpg);
 	min-height: 100%;
 }
 .pimg1,.pimg2,.pimg3{
